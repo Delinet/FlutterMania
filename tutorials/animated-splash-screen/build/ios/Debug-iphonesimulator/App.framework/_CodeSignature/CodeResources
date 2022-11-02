@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		AZC3kK6VSlLhkWVPkxcVdcaxgDc=
+		MdVuIJI0NpehNK+9Lh/8aZg65fE=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		kvKTBrxuEKVNXijmcybNaJLmf2E=
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
@@ -22,7 +22,11 @@
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
-		5JwDWyuNKVTpfTndWj6chsplpsE=
+		oJ4sEKll1pJigYJfDs/4NkVtB6A=
+		</data>
+		<key>flutter_assets/assets/fonts/OpenSans.ttf</key>
+		<data>
+		mZ1O5aJDh96PwqJ9T0A767ya47k=
 		</data>
 		<key>flutter_assets/assets/json/splashscreenanimation.json</key>
 		<data>
@@ -55,22 +59,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AZC3kK6VSlLhkWVPkxcVdcaxgDc=
+			MdVuIJI0NpehNK+9Lh/8aZg65fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			5gwtdd4E5Qv/xGk4gBF93VV02K0lfTO9zuWYyJXiLT0=
+			MfycUc42Q4jDmxQ++q5NO316hqPlZoFo4dKFjuxUvP0=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vKJkVIcw+LGHFnKJGwrQwCREv68=
+			kvKTBrxuEKVNXijmcybNaJLmf2E=
 			</data>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			TyJkYp8yJl+wW4imFq4uHEZRYxaa3rScDNVixb7btCQ=
 			</data>
 		</dict>
 		<key>flutter_assets/NOTICES.Z</key>
@@ -82,6 +86,17 @@
 			<key>hash2</key>
 			<data>
 			UnPr7Q5T+IEAhWI5syWCSBuK3wOIzs966K3Difn3hvQ=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/fonts/OpenSans.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mZ1O5aJDh96PwqJ9T0A767ya47k=
+			</data>
+			<key>hash2</key>
+			<data>
+			FgDQpQqMofjXn4gaYNgCl9HfiEJGhSZMMYi4gMytxRk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/json/splashscreenanimation.json</key>
