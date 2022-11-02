@@ -1,2 +1,5 @@
 # FlutterMania
-An open collection of Flutter and Dart snippets and best practices
+An open collection of Flutter and Dart tutorials, snippets and best practices
+
+# Table of Contents
+* [Animated Splash Screen](FlutterMania/tutorials/animated-splash-screen)
